@@ -1,0 +1,44 @@
+/*.bg3 {
+    /* The image used */
+    /*background-image: url("addCus.jpg");*/
+
+    /* Full height */
+    /*height: 50%;
+
+    /* Center and scale the image nicely */
+    /*background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}*/
+
+.bgM {
+    /* The image used */
+    background-image: url("BackgrounM.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.each-slide > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 800px;
+    width: 1500px;
+    
+  }
+  
+  .each-slide span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  }
